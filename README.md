@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 It's Vizo
 
 👨‍💻 Software Engineer | Python Flask & React | Building Real-World Solutions | Open to Collaborate
 
