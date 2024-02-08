@@ -3,6 +3,11 @@
 👨‍💻 Software Engineer | Python Flask & React | Building Real-World Solutions | Open to Collaborate
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
