@@ -1,7 +1,8 @@
 ### Hi there 👋 It's Vizo
 
-👨‍💻 Software Engineer | Python Flask & React | Building Real-World Solutions | Open to Collaborate
+Student | Python Flask & React | Learning by building | Open to Collaborate
 
+Stats from Feb 17 2024
 <!--START_SECTION:waka-->
 
 ```txt
@@ -15,4 +16,4 @@ JSON         7 mins          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-Passionate about solving real-world problems with Python Flask and React. React stole my heart for its dynamic approach – unlike traditional HTML and CSS, React offers a more organized and efficient way to create interactive and engaging user interfaces. Excited to explore new tech stacks and collaborate on impactful projects. Let's build something meaningful together!
+Passionate about solving real-world problems by building amazing softwares. React stole my heart for its dynamic approach – unlike traditional HTML and CSS, React offers a more organized and efficient way to create interactive and engaging user interfaces. Excited to explore new tech stacks and collaborate on impactful projects. Let's build something meaningful together!
