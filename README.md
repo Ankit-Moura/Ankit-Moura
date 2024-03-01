@@ -2,7 +2,7 @@
 
 Student | Python Flask & React | Learning by building | Open to Collaborate
 
-Stats from Feb 17 2024
+Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
