@@ -6,8 +6,9 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python   14 hrs 51 mins  █████████████████████████   99.75 %
-Docker   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+Python   10 hrs 56 mins  █████████████████████████   99.65 %
+Docker   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
