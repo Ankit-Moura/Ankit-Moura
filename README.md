@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Vizo
 
-Student | Python Flask & React | Learning by building | Open to Collaborate
+Student | Django | Learning by building | Open to Collaborate
 
 Weekly stats
 <!--START_SECTION:waka-->
