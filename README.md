@@ -6,8 +6,7 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 37 mins    ███████████████████████▓░   95.00 %
-HTML     5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Python   1 hr 32 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
