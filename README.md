@@ -6,10 +6,7 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python   50 mins         ████████████████▓░░░░░░░░   67.17 %
-Rust     14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
-Other    6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-CSV      4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
