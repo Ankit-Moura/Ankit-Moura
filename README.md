@@ -6,7 +6,9 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go     1 hr 1 min      ████████████████████████▒   97.20 %
+Git    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
