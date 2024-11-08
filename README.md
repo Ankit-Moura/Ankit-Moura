@@ -6,9 +6,7 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-Other   12 mins         ███████████████▒░░░░░░░░░   61.27 %
-Text    7 mins          █████████░░░░░░░░░░░░░░░░   35.42 %
-TOML    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
