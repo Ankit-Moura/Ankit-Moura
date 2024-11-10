@@ -6,7 +6,8 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   7 mins          ██████████████████████▓░░   90.82 %
+Text     0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
 ```
 
 <!--END_SECTION:waka-->
