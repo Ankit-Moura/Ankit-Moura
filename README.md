@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Vizo
 
-Student(master's) | Backends | API's | Django | AWS |  Learning by building | Open to Collaborate
+Student | Backends | API's | Django | AWS |  Learning by building | Open to Collaborate
 
 Weekly stats
 <!--START_SECTION:waka-->
