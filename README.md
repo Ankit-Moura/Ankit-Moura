@@ -1,4 +1,4 @@
-### Hi there 👋 It's Vizo
+### Hi there 👋 
 
 Student | Backends | API's | Django | AWS |  Learning by building | Open to Collaborate
 
