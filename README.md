@@ -1,6 +1,4 @@
-### Hi there 👋 
-
-Student | Backends | API's | Django | AWS |  Learning by building | Open to Collaborate
+heyyyy
 
 Weekly stats
 <!--START_SECTION:waka-->
@@ -10,6 +8,4 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
-
-
-Passionate about solving real-world problems by building amazing softwares.
+5 is greater than 4 :)
