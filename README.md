@@ -4,7 +4,9 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML   37 mins         ███████████████████▒░░░░░   77.52 %
+JSON   7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
+CSS    3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
 ```
 
 <!--END_SECTION:waka-->
