@@ -4,8 +4,8 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-C      5 hrs 30 mins   ███████████████████████▓░   94.62 %
-Text   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+C      2 hrs 51 mins   ███████████████████████▓░   95.21 %
+Text   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
