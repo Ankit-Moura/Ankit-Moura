@@ -4,8 +4,8 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-C             8 hrs 17 mins   █████████████████████████   99.47 %
-Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C             7 hrs 8 mins    █████████████████████████   99.38 %
+Objective-C   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
