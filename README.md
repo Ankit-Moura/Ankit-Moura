@@ -4,7 +4,7 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-C   26 mins         █████████████████████████   100.00 %
+C   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
