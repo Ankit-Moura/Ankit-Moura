@@ -4,9 +4,8 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python       2 hrs 55 mins   ███████████████▓░░░░░░░░░   62.87 %
-C            1 hr 40 mins    █████████░░░░░░░░░░░░░░░░   35.96 %
-Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+C      1 hr 40 mins    ██████████████████▒░░░░░░   73.72 %
+Java   35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
 ```
 
 <!--END_SECTION:waka-->
