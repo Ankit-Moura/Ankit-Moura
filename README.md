@@ -4,8 +4,7 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-C      1 hr 40 mins    ██████████████████▒░░░░░░   73.72 %
-Java   35 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
+Java   35 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
