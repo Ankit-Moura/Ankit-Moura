@@ -4,9 +4,7 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-JSON     40 mins         ████████████░░░░░░░░░░░░░   47.44 %
-Python   28 mins         ████████▒░░░░░░░░░░░░░░░░   33.37 %
-Java     16 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+HTML   7 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
