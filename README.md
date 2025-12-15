@@ -4,8 +4,7 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   36 mins         █████████████████████████   99.87 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
