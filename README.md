@@ -4,8 +4,11 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-Python   3 hrs 54 mins   ████████████████████████▓   98.98 %
-Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+HTML         1 hr 9 mins     ██████████████████████░░░   87.55 %
+JavaScript   7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
