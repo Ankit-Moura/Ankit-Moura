@@ -4,7 +4,8 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown   1 hr 5 mins     █████████████████████▓░░░   86.96 %
+HTML       9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 %
 ```
 
 <!--END_SECTION:waka-->
