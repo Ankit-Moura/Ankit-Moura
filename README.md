@@ -4,11 +4,11 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 15 mins          ██████████████░░░░░░░░░░░   56.32 %
-Markdown          41 mins               ███████▓░░░░░░░░░░░░░░░░░   30.80 %
-JavaScript        13 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-YAML              2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Java Properties   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Java              1 hr 15 mins          ████████████████████▒░░░░   81.39 %
+JavaScript        13 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+YAML              2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
+Java Properties   1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Docker            0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
