@@ -4,9 +4,9 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    3 hrs 5 mins          ████████████████████████░   96.05 %
-Markdown      7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
-Image (svg)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+TypeScript    1 hr 35 mins          ███████████████████████░░   92.59 %
+Markdown      7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
+Image (svg)   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
