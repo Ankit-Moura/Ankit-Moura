@@ -4,11 +4,11 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    5 hrs 9 mins          █████████████████████░░░░   84.66 %
-Python        27 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
-JavaScript    17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-Other         8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Docker        2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+TypeScript    2 hrs 22 mins         ██████████████████▓░░░░░░   74.93 %
+Python        27 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+JavaScript    17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
+Docker        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+YAML          0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
