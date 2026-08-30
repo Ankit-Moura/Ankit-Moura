@@ -4,11 +4,11 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   4 hrs 52 mins         ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-Python       3 hrs 41 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
-Markdown     3 hrs 22 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.26 %
-Dart         2 hrs 29 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-Other        44 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
+Python       3 hrs 41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.17 %
+Markdown     3 hrs 22 mins         ██████░░░░░░░░░░░░░░░░░░░   24.01 %
+TypeScript   3 hrs 7 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
+Dart         2 hrs 29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
+Other        44 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
 
 <!--END_SECTION:waka-->
