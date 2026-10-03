@@ -4,11 +4,11 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    8 hrs 16 mins         ██████████████░░░░░░░░░░░   55.57 %
-Other         1 hr 53 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
-Markdown      1 hr 40 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 %
-JSON          50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
-HTML          46 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
+TypeScript    8 hrs 43 mins         █████████████░░░░░░░░░░░░   51.96 %
+Markdown      2 hrs 31 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+Other         1 hr 25 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Python        1 hr 17 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+HTML          1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 ```
 
 <!--END_SECTION:waka-->
