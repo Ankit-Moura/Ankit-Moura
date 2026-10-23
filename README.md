@@ -4,11 +4,11 @@ Weekly stats
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 56 mins          ██████████▓░░░░░░░░░░░░░░   42.95 %
-Markdown     52 mins               █████░░░░░░░░░░░░░░░░░░░░   19.46 %
-Other        37 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.83 %
-Python       27 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-Git Config   12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+TypeScript   1 hr 13 mins          ██████████▒░░░░░░░░░░░░░░   41.76 %
+Markdown     52 mins               ███████▒░░░░░░░░░░░░░░░░░   29.88 %
+Git Config   12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Python       12 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
+Docker       7 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
 ```
 
 <!--END_SECTION:waka-->
